@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppConverter</string>
+    <string name="conversion">CONVERSION</string>
+    <string name="tap_money">SAISIR UN MONTANT</string>
+    <string name="source">SOURCE</string>
+    <string name="fcfa">FRCFA</string>
+    <string name="euro">EURO</string>
+    <string name="dollar">DOLLAR</string>
+    <string name="livesterling">LIVESTERLING</string>
+    <string name="valider">VALIDER</string>
+    <string name="annuler">ANNULER</string>
+    <string name="ERROR_MSG">IMPOSSIBLE!!!</string>
+</resources>
